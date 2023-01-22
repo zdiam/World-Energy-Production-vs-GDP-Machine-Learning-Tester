@@ -6,7 +6,7 @@ The hope was that the workflow could applied to a larger dataset (every country 
 
 <ins>The continuation of the project can be found at:</ins>
 
-::
+https://github.com/zdiam/Energy-Production-GDP-Machine-Learning-Model
 
 ### Initial Plot
 
